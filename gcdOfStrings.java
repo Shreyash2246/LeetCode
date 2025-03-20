@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution{
+class Solution_gcdOfStrings {
     public static String _gcdOfStrings(String str1, String str2){
         if(!(str1 + str2).equals(str1+str2)){
             return "";
@@ -19,6 +19,6 @@ public class gcdOfStrings {
     public static void main(String[] args) {
         String str1 = "ABCABC", str2 = "ABC";
     
-        System.out.println(Solution._gcdOfStrings(str1, str2));
+        System.out.println(Solution_gcdOfStrings._gcdOfStrings(str1, str2));
     }
 }
