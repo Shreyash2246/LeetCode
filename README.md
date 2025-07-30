@@ -19,6 +19,7 @@ also learning new things daily....
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash2246/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ also learning new things daily....
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
