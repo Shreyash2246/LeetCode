@@ -16,6 +16,7 @@ also learning new things daily....
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Shreyash2246/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Shreyash2246/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -31,12 +32,14 @@ also learning new things daily....
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shreyash2246/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Shreyash2246/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shreyash2246/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
