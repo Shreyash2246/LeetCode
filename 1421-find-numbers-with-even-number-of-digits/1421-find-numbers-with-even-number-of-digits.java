@@ -3,7 +3,7 @@ class Solution {
         int count = 0;
 
         for(int num : nums){
-            if(even(num)){
+            if((even(num)%2)==0){
                 count++;
             }
         }
@@ -11,12 +11,12 @@ class Solution {
         return count;
     }
 
-    static boolean even(int num){
-        int count=0;
-        while(num != 0){
-            count++;
-            num = num/10;
+    static int even(int num){
+        
+        if(num < 0){
+            num = num * -1;
         }
-        return count%2==0;
+        
+        return (int)(Math.log10(num)) + 1;
     }
 }
