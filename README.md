@@ -26,6 +26,7 @@ also learning new things daily....
 | [0217-contains-duplicate](https://github.com/Shreyash2246/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shreyash2246/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Shreyash2246/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
@@ -69,4 +70,5 @@ also learning new things daily....
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
