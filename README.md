@@ -19,6 +19,7 @@ also learning new things daily....
 | [0015-3sum](https://github.com/Shreyash2246/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Shreyash2246/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shreyash2246/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -72,6 +73,7 @@ also learning new things daily....
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shreyash2246/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
