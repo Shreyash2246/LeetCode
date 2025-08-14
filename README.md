@@ -29,6 +29,7 @@ also learning new things daily....
 | [0162-find-peak-element](https://github.com/Shreyash2246/LeetCode/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/Shreyash2246/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shreyash2246/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -59,6 +60,7 @@ also learning new things daily....
 | [0053-maximum-subarray](https://github.com/Shreyash2246/LeetCode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shreyash2246/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreyash2246/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ also learning new things daily....
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash2246/LeetCode/tree/master/0162-find-peak-element) |
+| [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shreyash2246/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -87,4 +90,12 @@ also learning new things daily....
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/1185-find-in-mountain-array) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
