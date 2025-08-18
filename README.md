@@ -37,6 +37,7 @@ also learning new things daily....
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shreyash2246/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Shreyash2246/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/Shreyash2246/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Shreyash2246/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,5 @@ also learning new things daily....
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Shreyash2246/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Shreyash2246/LeetCode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
