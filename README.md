@@ -36,6 +36,7 @@ also learning new things daily....
 | [1185-find-in-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/1185-find-in-mountain-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shreyash2246/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1791-richest-customer-wealth](https://github.com/Shreyash2246/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2048-build-array-from-permutation](https://github.com/Shreyash2246/LeetCode/tree/master/2048-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +101,8 @@ also learning new things daily....
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Shreyash2246/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
