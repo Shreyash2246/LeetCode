@@ -14,12 +14,12 @@ class Solution {
         }
 
         for(i = 0; i < n; i++){
-            if(nums[i] < i){
+            if(nums[i] != i+1){
                 return nums[i];
             }
         }
 
-        return nums[n-1];
+        return nums[0];
     }
 
     static void swap(int[] arr, int s, int e){
