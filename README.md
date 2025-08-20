@@ -31,6 +31,7 @@ also learning new things daily....
 | [0268-missing-number](https://github.com/Shreyash2246/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyash2246/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shreyash2246/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shreyash2246/LeetCode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -45,6 +46,7 @@ also learning new things daily....
 | [0001-two-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shreyash2246/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyash2246/LeetCode/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyash2246/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
