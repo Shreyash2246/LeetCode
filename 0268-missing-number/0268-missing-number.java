@@ -9,8 +9,6 @@ class Solution {
         if(n == 1){
             if(nums[0] > 0){
                 return 0;
-            }else{
-                return nums[0]+1;
             }
         }
         for(int i = 0; i < n-1; i++){
