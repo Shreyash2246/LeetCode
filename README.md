@@ -20,6 +20,7 @@ also learning new things daily....
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Shreyash2246/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/Shreyash2246/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shreyash2246/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ also learning new things daily....
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Shreyash2246/LeetCode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/Shreyash2246/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyash2246/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Shreyash2246/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
