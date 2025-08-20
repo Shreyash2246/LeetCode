@@ -4,6 +4,7 @@ class Solution {
         int n = nums.length;
         int[] arr = new int[2];
         
+        // cyclic sort
         int i = 0;
         while(i < n){
             int correctIdx = nums[i]-1;
@@ -15,6 +16,7 @@ class Solution {
             }
         }
 
+    // finding duplicate and returining with its index
         for(i = 0; i < n; i++){
 
             if(nums[i] != i+1){
