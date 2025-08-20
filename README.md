@@ -30,6 +30,7 @@ also learning new things daily....
 | [0217-contains-duplicate](https://github.com/Shreyash2246/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Shreyash2246/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash2246/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shreyash2246/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shreyash2246/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -54,6 +55,7 @@ also learning new things daily....
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Shreyash2246/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash2246/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -93,6 +95,7 @@ also learning new things daily....
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Shreyash2246/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Shreyash2246/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Shreyash2246/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash2246/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Shreyash2246/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Shreyash2246/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Shreyash2246/LeetCode/tree/master/0792-binary-search) |
@@ -119,4 +122,5 @@ also learning new things daily....
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Shreyash2246/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shreyash2246/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
