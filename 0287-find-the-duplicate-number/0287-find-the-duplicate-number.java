@@ -13,13 +13,14 @@ class Solution {
             }
         }
 
+        int duplicate = 0;
         for(i = 0; i < n; i++){
             if(nums[i] != i+1){
-                return nums[i];
+                duplicate = nums[i];
             }
         }
 
-        return nums[0];
+        return duplicate;
     }
 
     static void swap(int[] arr, int s, int e){
