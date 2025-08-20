@@ -15,7 +15,7 @@ class Solution {
             }
         }
 
-    // finding duplicate and returining with its index
+        // finding duplicate and returining with its index
         for(i = 0; i < n; i++){
 
             if(nums[i] != i+1){
