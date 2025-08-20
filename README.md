@@ -68,6 +68,7 @@ also learning new things daily....
 | ------- |
 | [0066-plus-one](https://github.com/Shreyash2246/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shreyash2246/LeetCode/tree/master/0069-sqrtx) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shreyash2246/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Shreyash2246/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
