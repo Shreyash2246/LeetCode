@@ -1,22 +1,28 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        int n = nums.length;
+        int n = nums.length;      
 
-        if(nums[0] != 0){
-            return 0;
-        }
-        // if(n == 1){
-        //     if(nums[0] > 0){
-        //         return 0;
-        //     }
-        // }
-        for(int i = 0; i < n-1; i++){
-            if(nums[i] != (nums[i+1]-1)){
-                return nums[i+1]-1;
+        int i = 0;
+        while(i < n){
+
+            int correctIdx = nums[i];
+            if(nums[i] < n && nums[i] != nums[correctIdx]){
+                //swap
+                int temp = nums[i];
+                nums[i] = nums[correctIdx];
+                nums[correctIdx] = temp;
+            }
+            else{
+                i++;
             }
         }
 
-        return nums[n-1]+1;
+        for(i=0; i<n; i++){
+            if(nums[i] != i){
+                return i;
+            }
+        }
+
+        return n;
     }
 }
