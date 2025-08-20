@@ -2,7 +2,6 @@ class Solution {
     public int[] findErrorNums(int[] nums) {
         // it is solved by simple cyclic sort and finding dup. by for loop
         int n = nums.length;
-        int[] arr = new int[2];
         
         // cyclic sort
         int i = 0;
@@ -20,13 +19,11 @@ class Solution {
         for(i = 0; i < n; i++){
 
             if(nums[i] != i+1){
-                arr[0] = nums[i];
-                arr[1] = i+1;
-                return arr;
+                return new int[] {nums[i], i+1};
             }
         }
 
-        return arr;
+        return new int[] {-1, -1};
     }
 
     static void swap(int[] arr, int s, int e){
